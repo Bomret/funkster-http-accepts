@@ -1,4 +1,4 @@
-import { Ok, asRequestListener } from "funkster-http";
+import { asRequestListener, Ok } from "funkster-http";
 import * as http from "http";
 import * as request from "supertest";
 
