@@ -13,6 +13,8 @@ Funkster is a compositional server library. This package contains combinators to
 $ npm install funkster-http-headers-accept
 ```
 
+[Typscript](http://www.typescriptlang.org/) is used to illustrate the examples.
+
 ## Parsing the Accept\* headers from a request
 
 This module uses the [accepts](https://www.npmjs.com/package/accepts) package so essentially the same api applies for the parsed headers object.
