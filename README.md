@@ -4,6 +4,7 @@
 [![node](https://img.shields.io/node/v/funkster-http-headers-accept.svg)](http://nodejs.org/download/)
 [![npm](https://img.shields.io/npm/dt/funkster-http-headers-accept.svg)](https://www.npmjs.com/package/funkster-http-headers-accept)
 [![Known Vulnerabilities](https://snyk.io/test/github/bomret/funkster-http-headers-accept/badge.svg)](https://snyk.io/test/github/bomret/funkster-http-headers-accept)
+[![bitHound](https://img.shields.io/bithound/code/github/Bomret/funkster-http-headers-accept.svg)](https://www.bithound.io/github/Bomret/funkster-http-headers-accept)
 [![Travis](https://travis-ci.org/Bomret/funkster-http-headers-accept.svg?branch=master)](https://travis-ci.org/Bomret/funkster-http-headers-accept)
 
 Funkster is a compositional server library. This package contains combinators to parse the HTTP Accept\* headers of a request.
