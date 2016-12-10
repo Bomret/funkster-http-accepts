@@ -26,7 +26,7 @@ import { parseAcceptHeaders } from 'funkster-http-headers-accept';
 import { asRequestListener, Ok } from 'funkster-http';
 
 const pipe = parseAcceptHeaders(headers => Ok(headers.type('json')));
-const server = http.createServer(asRequestListener(greet));
+const server = http.createServer(asRequestListener(pipe));
 
 // start the node HTTP server and send e.g. a GET with the Accept header set to 'application/json'.
 ```
