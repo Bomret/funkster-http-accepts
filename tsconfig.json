@@ -7,8 +7,10 @@
     "noImplicitAny": true,
     "outDir": "./lib",
     "sourceMap": true,
+    "strictNullChecks": true,
     "preserveConstEnums": true,
-    "removeComments": true
+    "removeComments": true,
+    "types": []
   },
   "include": [
     "src/**/*"
