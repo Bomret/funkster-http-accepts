@@ -9,7 +9,9 @@
 
 ![Icon](./icon.png)
 
-Funkster is a compositional server library. This package contains combinators to parse the HTTP Accept\* headers of a request.
+Funkster is a compositional server library. This package contains combinators and types to parse the HTTP Accept\* headers of a request.
+
+Additional examples of how to build HTTP server apis with funkster can be found [here](https://github.com/Bomret/funkster-http-examples).
 
 > [Typscript](http://www.typescriptlang.org/) is used to illustrate the examples.
 
