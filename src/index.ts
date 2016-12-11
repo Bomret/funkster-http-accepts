@@ -1,11 +1,11 @@
-import * as acc from "accepts";
+import accepts = require("accepts");
 import { HttpPipe, request } from "funkster-http";
 
-export type AcceptHeaders = acc.Accepts;
+export interface AcceptHeaders extends accepts.Accepts { }
 
 export function parseAcceptHeaders(handler: (headers: AcceptHeaders) => HttpPipe): HttpPipe {
-  return request(req => {
-    const parsedAccepts = acc(req);
-    return handler(parsedAccepts);
-  });
+    return request(req => {
+        const parsedAccepts = accepts(req);
+        return handler(parsedAccepts);
+    });
 }

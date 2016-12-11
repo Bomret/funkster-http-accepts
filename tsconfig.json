@@ -9,8 +9,7 @@
     "sourceMap": true,
     "strictNullChecks": true,
     "preserveConstEnums": true,
-    "removeComments": true,
-    "types": []
+    "removeComments": true
   },
   "include": [
     "src/**/*"
