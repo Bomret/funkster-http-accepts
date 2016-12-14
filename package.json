@@ -1,6 +1,6 @@
 {
   "name": "funkster-http-headers-accept",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Funkster is a compositional server library. This package contains combinators to parse the Accept header of a request.",
   "license": "Unlicense",
   "repository": "git@github.com:Bomret/funkster-http-headers-accept.git",
