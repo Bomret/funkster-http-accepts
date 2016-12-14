@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.6.1] - 2016-12-14
+### Changed
+- Upgraded all dependencies.
+
 ## [0.6.0] - 2016-12-12
 ### Fixed
 - The module does not depend on `@types/accepts` anymore but introduces the type `AcceptHeaders` instead.
