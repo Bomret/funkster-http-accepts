@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.7.0] - 2016-12-14
+### Changed
+- Added `@types/accepts` to dependencies.
+
 ## [0.6.1] - 2016-12-14
 ### Changed
 - Upgraded all dependencies.
