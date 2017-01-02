@@ -3,8 +3,6 @@
 [![npm](https://img.shields.io/npm/v/funkster-http-headers-accept.svg?style=flat-square)](https://www.npmjs.com/package/funkster-http-headers-accept)
 [![node](https://img.shields.io/node/v/funkster-http-headers-accept.svg?style=flat-square)](http://nodejs.org/download/)
 [![npm](https://img.shields.io/npm/dt/funkster-http-headers-accept.svg?style=flat-square)](https://www.npmjs.com/package/funkster-http-headers-accept)
-[![Known Vulnerabilities](https://snyk.io/test/github/bomret/funkster-http-headers-accept/badge.svg?style=flat-square)](https://snyk.io/test/github/bomret/funkster-http-headers-accept)
-[![bitHound](https://img.shields.io/bithound/code/github/Bomret/funkster-http-headers-accept.svg?style=flat-square)](https://www.bithound.io/github/Bomret/funkster-http-headers-accept)
 [![Travis](https://img.shields.io/travis/Bomret/funkster-http-headers-accept.svg?style=flat-square)](https://travis-ci.org/Bomret/funkster-http-headers-accept)
 
 ![Icon](./icon.png)
