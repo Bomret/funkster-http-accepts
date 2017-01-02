@@ -1,6 +1,14 @@
 {
-  "extends": "tslint:latest",
+  "extends": "tslint:recommended",
   "rules": {
+    "semicolon": [
+      true,
+      "never"
+    ],
+    "quotemark": [
+      true,
+      "single"
+    ],
     "curly": false,
     "interface-name": [
       true,
@@ -17,6 +25,13 @@
     "indent": [
       true,
       "spaces"
+    ],
+    "ordered-imports": [
+      true,
+      {
+        "import-sources-order": "case-insensitive",
+        "named-imports-order": "case-insensitive"
+      }
     ]
   }
 }
