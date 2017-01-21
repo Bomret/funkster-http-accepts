@@ -51,6 +51,7 @@ jspm_packages
 .yarn-integrity
 
 lib
+dist
 
 
 ### VisualStudioCode ###
