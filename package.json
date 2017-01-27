@@ -25,10 +25,10 @@
   "dependencies": {
     "@types/accepts": "^1.3.0",
     "accepts": "^1.3.3",
-    "funkster-http": "^0.6.8"
+    "funkster-http": "^0.6.12"
   },
   "devDependencies": {
-    "@types/mocha": "^2.2.35",
+    "@types/mocha": "^2.2.38",
     "@types/node": "^7.0.1",
     "@types/supertest": "^2.0.0",
     "cz-conventional-changelog": "^1.2.0",
@@ -48,8 +48,8 @@
     "standard": "^8.6.0",
     "supertest": "^2.0.1",
     "ts-node": "^2.0.0",
-    "tslint": "^4.1.1",
-    "typescript": "^2.1.4"
+    "tslint": "~4.3.1",
+    "typescript": "^2.1.5"
   },
   "engines": {
     "node": ">=4.2.0"
