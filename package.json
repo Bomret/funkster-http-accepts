@@ -28,8 +28,8 @@
     "funkster-http": "^0.6.12"
   },
   "devDependencies": {
-    "@types/node": "^7.0.3",
     "@types/mocha": "^2.2.38",
+    "@types/node": "^7.0.3",
     "@types/supertest": "^2.0.0",
     "cz-conventional-changelog": "^1.2.0",
     "del": "^2.2.2",
